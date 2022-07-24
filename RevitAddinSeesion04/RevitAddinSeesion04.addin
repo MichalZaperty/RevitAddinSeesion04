@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="Command">
-    <Text>Command RevitAddinSeesion04</Text>
+    <Text>cmdElementsFromLines RevitAddinSeesion04</Text>
     <Description>Some description for RevitAddinSeesion04</Description>
     <Assembly>RevitAddinSeesion04.dll</Assembly>
-    <FullClassName>RevitAddinSeesion04.Command</FullClassName>
+    <FullClassName>RevitAddinSeesion04.cmdElementsFromLines</FullClassName>
     <ClientId>da6dee67-e6f8-4774-979f-f4093f3803e2</ClientId>
     <VendorId>com.typepad.thebuildingcoder</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
