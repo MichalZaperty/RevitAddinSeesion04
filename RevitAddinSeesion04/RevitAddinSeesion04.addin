@@ -9,6 +9,15 @@
     <VendorId>com.typepad.thebuildingcoder</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
   </AddIn>
+	<AddIn Type="Command">
+		<Text>walls form lines</Text>
+		<Description>Some description for RevitAddinSeesion04</Description>
+		<Assembly>RevitAddinSeesion04.dll</Assembly>
+		<FullClassName>RevitAddinSeesion04.cmdWallsFromLines</FullClassName>
+		<ClientId>7673718E-F821-4F03-8EBC-EF1F9C6DFAA6</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
   <AddIn Type="Application">
     <Name>Application RevitAddinSeesion04</Name>
     <Assembly>RevitAddinSeesion04.dll</Assembly>
